@@ -12,8 +12,6 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 1. nodejs
-2. installer un IDE
-3. npm install && npm start
 
 ```
 
